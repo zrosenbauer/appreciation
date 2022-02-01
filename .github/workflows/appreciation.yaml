@@ -1,6 +1,7 @@
 name: Appreciation
-issues:
-  types: [ opened ]
+on:
+  issues:
+    types: [ opened ]
 
 jobs:
   appreciation:
